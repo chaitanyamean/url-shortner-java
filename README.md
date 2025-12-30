@@ -1,4 +1,4 @@
-<img width="694" height="358" alt="image" src="https://github.com/user-attachments/assets/b220b1c0-a1bf-43b4-897e-34ea9030c3d5" />SQL lite connection:
+SQL lite connection:
 in application properties add 
 spring.datasource.url=jdbc:sqlite:data/shortener.db
 
